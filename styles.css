@@ -26,6 +26,14 @@ aside{
 section, article{
     padding: 10px;
 }
+section{
+    height: 60%;
+    width: 55vw;
+}
+article{
+    height: 40%;
+    width: 55vw;
+}
 .mid{
     width: calc(55vw - 10px);
     display: inline-block;
